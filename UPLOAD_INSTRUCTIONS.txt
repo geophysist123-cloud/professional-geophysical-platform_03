@@ -1,0 +1,21 @@
+V5.7.13 synchronized GitHub update
+
+Replace/add these exact repository paths:
+  pages_magnetic.py
+  pages_gravity.py
+  pages_integration.py
+  pages_gis.py
+  pages_projects.py
+  magnetic/processing.py
+  gravity/processing.py
+  targeting/integration.py
+  gis/crs_map_view.py
+  gis/crs_mapping.py
+  gis/interactive_maps.py
+  gis/map_performance.py
+  VERSION
+
+Commit message:
+  Fix final processing stages and contour display synchronization
+
+IMPORTANT: keep the folders exactly as shown.

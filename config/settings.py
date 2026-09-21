@@ -1,0 +1,12 @@
+APP_NAME = "Professional Geophysical Exploration Platform"
+APP_VERSION = "5.1.0"
+
+DEFAULT_DATABASE_URL = "sqlite:///geophysical_platform.db"
+
+DEFAULT_MAGNETIC_WEIGHT = 60.0
+DEFAULT_GRAVITY_WEIGHT = 40.0
+
+DEFAULT_NORMALIZATION = "Robust Z-score"
+
+DEFAULT_EVIDENCE_WEIGHT = 85.0
+DEFAULT_CONCORDANCE_WEIGHT = 15.0

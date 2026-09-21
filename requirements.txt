@@ -1,0 +1,16 @@
+streamlit==1.63.0
+sqlalchemy>=2.0,<2.1
+pandas
+numpy
+pyproj
+psycopg[binary]
+PyMySQL
+pyodbc
+oracledb
+openpyxl
+scipy
+matplotlib
+reportlab==5.0.1
+folium==0.20.0
+streamlit-folium==0.27.4
+plotly>=6.0,<7
